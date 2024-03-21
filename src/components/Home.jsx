@@ -55,13 +55,13 @@ const Home= () => {
     <div className='body'>
       <link href='https://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'></link>
       <header className='header' id='home'>
-        <div className="icon-wrapper-header">
+        {/* <div className="icon-wrapper-header">
                 <FaFacebook className='header-icons'></FaFacebook>
                 <FaInstagram className='header-icons'></FaInstagram>
                 <FaLinkedinIn className='header-icons'></FaLinkedinIn>
                 <FaSquareXTwitter className='header-icons'></FaSquareXTwitter>
                 <FaYoutube className='header-icons'></FaYoutube>
-        </div>
+        </div> */}
         <img src={TEAMlogo} alt="Club Logo" className="logo" />
         <h1 class="wordCarousel">
           <span>TEAM XANTHRONZ: </span>
